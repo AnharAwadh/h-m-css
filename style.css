@@ -1,0 +1,43 @@
+body {
+    background: #ffffff url("background-image.png") no-repeat ;
+    background-size: cover;
+    }/*clar and backgrund*/
+    
+table,th,td{
+    border: 1px solid rgb(107, 186, 107);
+    margin: 50px;
+}
+form{
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 30px;
+    width:900px;
+    display: grid;
+    align-items: center;}
+
+
+div {
+    width: 500px;
+    padding: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    }
+    p{
+        font-family: 'Beau Rivage', cursive;
+    }
+   .button{
+
+        width: 500px;
+    padding: 20px;
+    margin-block-end: 20%;
+    margin-right: 20%;
+    }
+
+    img {
+        position: relative;
+        left: 0px;
+        top: 0px;
+        z-index: -1;
+      }
+      
